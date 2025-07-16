@@ -1,6 +1,7 @@
 # SANAZLE-AI-SANITISATION-
 SanitTract-backend
-#team name-wi-fight club
+#team name-wi-fight CLUB
+MEMBERS-SHIVAM CHOUBEY,SAKSHAM
 
 📌 Overview This project implements a real-time hospital bed monitoring system using OpenCV, YOLO object detection, and MediaPipe hand tracking. It detects hand wiping movements to determine cleanliness and uses YOLO object detection to identify unnecessary objects on the bed. Additionally, it sends email reports with bed cleanliness analysis.
 
